@@ -1,3 +1,3 @@
 ## Simulador de criador de contas bancárias
 
-### Atividade prática de Orientação a objetos com JavaScript.
+### Atividade prática de Orientação à objetos com JavaScript.
